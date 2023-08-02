@@ -115,6 +115,3 @@ function polarEllipses(t, s, i, o) {
   }
 }
 
-function windowResized() {
-  resizeCanvas(windowWidth, windowHeight);
-}
